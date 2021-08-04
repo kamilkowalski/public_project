@@ -1,0 +1,3 @@
+%{
+  "private_package": {:hex, :private_package, "0.1.0", "a4f5448bad3afe559a8696185fd2fb09bfb7052843a4fa98a68ba44ea735c822", [:mix], [], "hexpm:renovate_test", "7014bafb08fcdbb67fd54dfff1e708eab4275d8320c0121a0dd21e08a00fe8ee"},
+}
