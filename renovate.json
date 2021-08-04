@@ -1,3 +1,11 @@
 {
-  "$schema": "https://docs.renovatebot.com/renovate-schema.json"
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "hostRules": [
+    {
+      "matchHost": "https://hex.pm/api/repos/renovate_test/",
+      "encrypted": {
+        "token": "aHE38FTDRFOx7xxesJ5WWmUvzYmiN7zyTl0NgVBvlr43kOw0c13KKqA9w9DT4h7PDuDkjSfR8tHtnu4dL3iGtQFdoJTij9akanu7ngIPx1u6RwoOuzXRJqNxrMH2V3FjQTQi0klSynly/TPBKJbaTVnGWWrwxE0EamKpuodAS54="
+      }
+    }
+  ]
 }
