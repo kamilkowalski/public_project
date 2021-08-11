@@ -3,6 +3,7 @@
   "hostRules": [
     {
       "matchHost": "https://hex.pm/api/repos/renovate_test/",
+      "authType": "Token-Only",
       "encrypted": {
         "token": "WCCToksXh5xo9Zs3q67fDiUEXeijUYD7mRZ8jL8Dv5iONvAG8z+jZRyrD8TWrKEEY+OlfhzP+300oCd9UNzi/J/vuo1oQYXbfrZS6byd4j/7NeCih2axHEjVuIfasbqJyP4eEbQcvR26vkYR8/p0hJT4Wl907PrtYZeH6X/tnE0IgrcL0gjejabH3AVGXCAfZ/fUPPeqdDdNPANfDOeBfy4fmVPHqVCDFG/i4e4wh4uXoxUzYlrzxRQHzykt+kRul3LJWNGs0eodEo7o8CqhVAYtgfljjsatwRKjLxbWc6QDbI2Z9FmDYNjVueqxkdb41h5IU+eLsrHPZoKIKvFqy39Q9TOx1EHNk2muoD8lYo9jPCO9+wwTV3XaBpYFKoQs8rk+13Bjs6JbxbSg1YFM084OmlgACLm0u0j1aGjHdroBlxuN22vnAy+3lXVnGjPJj+PgNmRiE/kUaK+bP6aYvTtowtIJX4V32Fni+MxAOZJRkIIFtF/t04Pg+pNxXEixU0G3Y/ed7JuLcUq7dStNbAvWUV31pbZ9vs5DwGufj7GJAyR2Ad00OLTIJEnyeON3BA2XE0mRkyJn/++C+UMjc/Y94BUxrKolJHYnXkb+cMNmEd9cnr1z0fIt67wywkR6Fh2jMzgjWUXMr9Z0Mombww0oNL2g9cEDhRG108fGdLU="
       }
