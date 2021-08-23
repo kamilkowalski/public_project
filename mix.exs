@@ -21,7 +21,7 @@ defmodule PublicProject.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:private_package, "== 0.1.3", organization: "renovate_test"}
+      {:private_package, "== 0.1.4", organization: "renovate_test"}
     ]
   end
 end
