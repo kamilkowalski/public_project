@@ -1,3 +1,3 @@
 %{
-  "private_package": {:hex, :private_package, "0.1.4", "89a85d1db10a805f723070b3756e869cde5e97ceb286200cde16d68eba15a549", [:mix], [], "hexpm:renovate_test", "ba8f1ba35d6796817d5f2a8ac3374c528376b93c894ae2a2b77e74701c89c5ad"},
+  "private_package": {:hex, :private_package, "0.1.6", "3e5889fdd8d1f8c5595e318399fb7419f756df83e6cc7a1f0fd403aab4558c63", [:mix], [], "hexpm:renovate_test", "aa17ea6b45afc7099333dc754b9c7a26eb05a2714840f9f7e97ef02bb7d7bb2f"},
 }
